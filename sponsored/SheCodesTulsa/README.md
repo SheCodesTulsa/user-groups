@@ -18,11 +18,16 @@ Other Code of Conduct(s): N/A
     - ~~Twitter~~
     - Youtube:
       - ~~Account~~
-      - ~~Channel~~
+      - [Channel](https://www.youtube.com/channel/UC0NOdQpd9rfhuMkUbOyuICA)
 
 #### Image design details:
--SheCodesTulsa
-```<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto:100,400" rel="stylesheet">```
+
+`<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto:100,400" rel="stylesheet">`
+
+- Full Size
+  - SheCodesTulsa
+- Icon
+  - SCT
   - Background color: White
   - Font: Roboto
     - Color: Back
